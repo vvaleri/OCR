@@ -1,0 +1,666 @@
+
+@media (max-width: 1300px) {
+    .images .image__inner {
+        right: 70px;
+    }
+
+}
+
+@media (max-width: 1230px) {
+    .images .image__inner {
+        right: 20px;
+    }
+
+}
+
+@media (max-width: 1180px) {
+.images .image__inner {
+    display: flex;
+    padding-left: 20px;
+}
+.images{
+    min-height: 400px;
+}
+
+}
+
+
+@media (max-width: 1050px) {
+
+    .images{
+        min-height: 330px;
+    }
+   
+
+    .main {
+        padding-left: 30px;
+    }
+
+    .map__inner-box {
+        padding-right: 30px;
+       
+    }
+
+    .contacts {
+        width: 50%;
+    }
+
+    .form {
+        padding-right: 30px;
+    }
+
+}
+
+
+@media (max-width: 900px) {
+    .map__inner .map__inner-box {
+        padding-left: 30px;
+    }
+
+    .invite__inner {
+        padding-left: 30px;
+    }
+
+
+    .contacts {
+        margin-left: 40px;
+    }
+
+    .invite__content {
+        padding-right: 70px;
+    }
+
+    .footer__inner {
+        padding-right: 30px;
+    }
+}
+
+
+
+
+
+
+@media (max-width: 835px) {
+    .main .main__title {
+        font-size: 40px;
+     
+}
+    .main .main__description {
+        padding-top: 50px;
+
+}
+
+.row .row__inner-1, 
+.row .row__inner-2, 
+.row .row__inner-3, 
+.row .row__inner-4, 
+.row .row__inner-5, 
+.row .row__inner-6 {
+    font-size: 16px;
+}
+
+.row 
+.row__inner-1 
+.row__description {
+    font-size: 14px;
+}
+
+ .map {
+    min-height: 600px;
+} 
+
+.map__inner 
+.map__inner-box 
+.map__title {
+    font-size: 28px;
+
+}
+
+
+.map__inner 
+.map__inner-box 
+.map__text {
+    font-size: 14px
+}
+
+
+.map__location:after {
+    font-size: 12px;
+}
+
+.map__logo-1, 
+.map__logo-2, 
+.map__logo-3, 
+.map__logo-4,
+.map__logo-5 {
+    padding-right: 20px;
+} 
+
+.map__inner 
+.map__inner-box {
+    padding-right: 20px;
+}
+
+.number__content {
+    padding: 34px 30px;
+}
+
+.number__content 
+.number__box .number__title {
+    font-size: 30px;
+}
+
+.number__content 
+.number__box .number__text {
+    font-size: 12px;
+}
+.images {
+    min-height: 260px;
+}
+
+.images .image__inner {
+    top: -10px;
+    left: 30px;
+    right: 50px;
+}
+.numbers {
+    min-height: 230px;
+}
+
+.invite .invite__name {
+    margin: 60px auto 0;
+}
+
+.invite__inner .invite__logo-name {
+    margin-left: 23px;
+}
+
+.invite__inner .invite__logo {
+    margin-left: -23px;
+}
+
+.contacts {
+    margin-left: 30px;
+    
+}
+
+.inner::after {
+ right: 55%;
+}
+
+.footer__inner .menu li {
+    padding-left: 30px;
+}
+
+}
+
+
+
+
+@media (max-width: 768px) {
+
+    .row .row__inner-1, 
+    .row .row__inner-2, 
+    .row .row__inner-3, 
+    .row .row__inner-4, 
+    .row .row__inner-5, 
+    .row .row__inner-6 {
+        font-size: 14px;
+    }
+    
+    .row 
+    .row__inner-1 
+    .row__description {
+        font-size: 12px;
+    }
+
+    .map__location:after {
+        font-size: 10px;
+    }
+
+    .number__content 
+    .number__box .number__title {
+        font-size: 28px;
+    }
+    
+    .number__content 
+    .number__box .number__text {
+        font-size: 11px;
+    }
+
+    .number__content {
+        padding: 20px 30px;
+    }
+
+
+    .invite__content {
+        margin-top: 40px;
+    }
+
+
+    .invite__inner {
+        background-image: none;
+        margin-top: 0px;
+    
+    }
+
+    .invite__inner .invite__title,
+    .invite__inner .invite__text {
+        margin: 0 auto;
+        padding-top: 30px;
+    }
+
+    .invite__inner .invite__btn {
+        margin-left: 40%;
+    }
+
+    .invite__inner .invite__text {
+        padding-left: 40px;
+    }
+    .invite__inner .invite__logo-name {
+        margin-top: 40px;
+        padding-left: 40px;
+    }
+    .contacts .contacts__title,
+    .form .form__title {
+    font-size: 28px;
+}
+
+.form__inner input {
+    min-width: 280px;
+}
+
+.form__btn {
+    max-width: 280px;
+}
+
+
+.footer__inner .menu li {
+    padding-left: 20px;
+}
+}
+
+
+@media (max-width: 730px) {
+    .map__inner 
+    .map__inner-logotypes {
+        padding: 0px;
+    }
+    .logo-img {
+        width: 85%;
+    }
+
+    .number__box {
+       display: none
+    }
+
+    .number__content .number__box-main {
+        margin: 0 auto;
+        padding-left: 80px;
+    }
+
+
+}
+
+
+
+
+@media (max-width: 580px) {
+
+    .main .main__title {
+        font-size: 30px;
+        max-width: 400px;
+        line-height: 50px;
+     
+}
+    .main .main__description {
+        padding-top: 30px;
+        font-size: 14px;
+
+} 
+
+.map__inner 
+.map__inner-box 
+.map__title {
+    font-size: 20px;
+
+}
+
+
+.map__inner 
+.map__inner-box 
+.map__text {
+    font-size: 14px
+}
+
+.map__location:after {
+    font-size: 10px;
+}
+
+.row .row__inner-1, 
+    .row .row__inner-2, 
+    .row .row__inner-3, 
+    .row .row__inner-4, 
+    .row .row__inner-5, 
+    .row .row__inner-6 {
+        font-size: 11px;
+    }
+    
+    .row 
+    .row__inner-1 
+    .row__description {
+        font-size: 10px;
+    }
+
+    .map {
+        min-height: 450px;
+    } 
+
+    .map__inner 
+    .map__inner-box 
+    .map__text {
+    font-size: 12px;
+    }
+
+    .images {
+        min-height: 150px;
+    }
+    .invite .invite__name {
+        font-size: 24px;
+    }
+
+    .inner::after {
+        display: none;
+    }
+
+    .footer__inner .menu li {
+        padding-left: 20px;
+        font-size: 11px;
+    }
+
+}
+
+
+
+@media (max-width: 490px) {
+    .map__inner {
+        display: block;
+    }
+    .map__inner .map__inner-box {
+        margin: 0;
+    }
+
+    .map__inner 
+    .map__inner-box 
+    .map__title {
+    padding-top: 20px;
+
+}
+    .map__inner 
+    .map__inner-logotypes {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+    .logo-img {
+    width: 80%;
+}
+.map__location:after {
+    font-size: 8px;
+    bottom: 20%;
+    line-height: 10px;
+}
+
+.inner {
+    display: block;
+}
+
+.contacts {
+    margin: 0 auto;
+}
+.contacts .contacts__person,
+  .contacts .contacts__number {
+      margin-top: 20px;
+  }
+
+  .form {
+      padding-left: 90px;
+  }
+}
+
+
+
+
+@media (max-width: 425px) {
+
+    .main .main__description {
+        max-width: 380px;
+    }
+
+    .row {
+        display: block;
+    }
+
+    .row .row__inner-1, 
+    .row .row__inner-2, 
+    .row .row__inner-3, 
+    .row .row__inner-4, 
+    .row .row__inner-5, 
+    .row .row__inner-6 {
+        width: 100%;
+        background-repeat: no-repeat;
+        background-size: cover;
+        font-size: 16px; 
+    }
+
+    .row__title {
+        padding-top: 10px;
+    }
+
+    .row .row__inner-1 
+    .row__description {
+        padding-top: 20px;
+        font-size: 14px;
+    }
+
+    .row__elem-1 {
+        padding-bottom: 30px;
+    }
+
+
+    .row__elem-2,
+    .row__elem-3,
+    .row__elem-4,
+    .row__elem-5,
+    .row__elem-6 {
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .map {
+        min-height: 400px;
+    } 
+
+    .images {
+        display: none;
+    }
+
+    .invite .invite__name {
+        margin-top: 20px;
+        font-size: 20px;
+    }
+
+    .number__content .number__box-main {
+        padding-left: 40px;
+    }
+
+    .number__content
+    .number__box-main .number__title {
+        font-size: 30px;
+    }
+
+
+    .invite__inner .invite__btn {
+        margin-left: 25%;
+    }
+
+    .form {
+        padding-left: 60px;
+    }
+
+    .form .form__title {
+        padding-left: 20px;
+    }
+    .form__sign {
+        padding-bottom: 10px;
+    }
+
+    .footer__inner .menu li {
+        padding-left: 30px;
+        font-size: 11px;
+        padding-top: 10px;
+    }
+
+    .invite {
+        min-height: 100px;
+    }
+
+    .invite__inner {
+        padding-bottom: 0px;
+    }
+
+    .invite__inner .invite__logo {
+        margin-left: 20px;
+    }
+
+    .invite__logo-img {
+        width: 100%;
+     }
+
+}
+
+
+@media (max-width: 375px) {
+
+    .main .main__description {
+    max-width: 320px;
+    }
+
+    .map::before {
+        left: 45%;
+    }
+
+    .map {
+        min-height: 350px;
+    }
+    .number__content {
+        padding: 20px 20px;
+    }
+    .invite .invite__name {
+        font-size: 18px;
+    }
+    .invite__name::after {
+        left: 40%;
+    }
+
+    .invite__inner .invite__title {
+        font-size: 30px;
+    }
+    .invite__inner .invite__text {
+        padding-left: 50px;
+    }
+
+    .invite__content {
+        padding-right: 50px;
+    }
+
+
+    .invite__inner .invite__btn {
+        margin-left: 20%;
+    }
+
+    .contacts .contacts__title {
+        margin-top: 30px;
+    }
+
+    .form {
+        padding-left: 40px; 
+    }
+
+    .form .form__title {
+        margin-top: 40px;
+    }
+
+    .form .form__text {
+        margin-top: 30px;
+    }
+
+    .form__inner input {
+        min-width: 250px;
+    }
+    
+    .form__btn {
+        max-width: 250px;
+    }
+
+    .footer__inner .menu li {
+        padding-left: 20px;
+    }
+    
+
+}
+
+@media (max-width: 320px) {
+
+    .map__inner 
+    .map__inner-logotypes {
+        display: none;
+    }
+
+    .footer__inner .menu li {
+        padding-left: 10px;
+    }
+
+    .header__menu {
+        
+        width: 310px;
+    }
+
+    .header__list a {
+      
+        font-size: 14px;
+        padding-top: 30px;
+    }
+    .map {
+        min-height: 280px;
+    }
+    .number__content .number__box-main {
+        padding-left: 20px;
+    }
+    .number__content
+    .number__box-main .number__title {
+        font-size: 24px;
+    }
+    .number__content
+    .number__box-main .number__text {
+        font-size: 12px;
+    }
+
+
+    .invite__inner {
+        padding-left: 20px;
+    }
+    .invite__inner .invite__text {
+        padding-left: 30px;
+    }
+    .invite__inner .invite__btn {
+        margin-left: 15%;
+    }
+    .invite__inner .invite__logo-name {
+       font-size: 12px;
+        padding-left: 10px;
+    }
+
+
+
+
+}

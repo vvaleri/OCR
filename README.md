@@ -1,5 +1,5 @@
 # OCR
 
-Просто первая вёрстка
+Первая вёрстка
 
 https://vvaleri.github.io/OCR/

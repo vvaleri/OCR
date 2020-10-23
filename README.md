@@ -1,5 +1,5 @@
 # OCR
 
-Первая вёрстка
+first project
 
 https://vvaleri.github.io/OCR/
